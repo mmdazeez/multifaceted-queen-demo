@@ -8,11 +8,6 @@
     "typecheck": "pnpm run typecheck:libs && pnpm -r --filter \"./artifacts/**\" --filter \"./scripts\" --if-present run typecheck"
   },
   "private": true,
-  "workspaces": [
-    "artifacts/*",
-    "lib/*",
-    "scripts"
-  ],
   "devDependencies": {
     "typescript": "~5.9.2",
     "prettier": "^3.8.1",
