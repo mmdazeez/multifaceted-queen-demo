@@ -8,7 +8,7 @@ function App() {
       title: 'Template 1',
       description: 'A polished website design option for Multifaceted Queen with a stylish layout, clear service sections, and a professional customer experience.',
       buttonText: 'View Template 1',
-      link: 'https://multifaceted-queen-template1.vercel.app',
+      link: 'https://template1.moegrouptest.online',
       previewTheme: 'theme-1'
     },
     {
@@ -16,7 +16,7 @@ function App() {
       title: 'Template 2',
       description: 'A modern website design option for Multifaceted Queen with a clean structure, strong service presentation, and a business-ready layout.',
       buttonText: 'View Template 2',
-      link: 'https://multifaceted-queen-template2.vercel.app',
+      link: 'https://template2.moegrouptest.online',
       previewTheme: 'theme-2'
     },
     {
@@ -24,7 +24,7 @@ function App() {
       title: 'Template 3',
       description: 'A bright and professional website design option for Multifaceted Queen focused on clear messaging, attractive visuals, and easy client navigation.',
       buttonText: 'View Template 3',
-      link: 'https://multifaceted-queen-template3.vercel.app',
+      link: 'https://template3.moegrouptest.online',
       previewTheme: 'theme-3'
     }
   ];
