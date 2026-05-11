@@ -1,0 +1,217 @@
+You are an expert senior full-stack developer, UI/UX designer, and modern website architect.
+
+Build a premium, modern, responsive multi-page business website for a beauty and creative services brand called:
+
+“Creative Beauty & Alterations Studio”
+
+The business combines:
+1. Hair Services
+2. Custom Crafting Projects
+3. Clothing Alterations
+
+The website should look polished, luxurious, elegant, and fully client-presentable.
+
+==================================================
+TECH STACK
+==================================================
+
+Use:
+- React
+- Next.js
+- Tailwind CSS
+- Framer Motion for animations
+- Responsive modern UI
+- Component-based architecture
+- Clean folder structure
+- Professional reusable sections
+
+==================================================
+DESIGN STYLE
+==================================================
+
+Design inspiration:
+- Premium salon/spa websites
+- Elegant boutique service brands
+- Minimal luxury aesthetic
+
+Use:
+- Soft neutral palette
+- White, beige, cream, soft gold accents
+- Rounded cards
+- Smooth shadows
+- Elegant typography
+- Large spacing
+- Modern hover animations
+- Sticky transparent navbar
+- Smooth scrolling
+
+The website must feel:
+- Warm
+- Feminine
+- Professional
+- High-end
+- Clean and modern
+
+==================================================
+WEBSITE STRUCTURE
+==================================================
+
+Create these pages:
+
+1. Home
+2. Hair Services
+3. Crafting Projects
+4. Alterations
+5. Contact
+
+==================================================
+HOME PAGE
+==================================================
+
+Hero Section:
+- Full-screen elegant hero
+- Background image placeholder
+- Business title:
+  “Creative Beauty & Alterations Studio”
+- Subtitle:
+  “Beauty, Creativity, and Perfect Fit — All in One Place”
+- CTA buttons:
+  - Book Appointment
+  - Explore Services
+
+Services Section:
+Create 3 premium animated cards:
+- Hair Services
+- Crafting Projects
+- Alterations
+
+Each card should contain:
+- Elegant icon
+- Short description
+- Hover animation
+- Learn More button
+
+About Section:
+- Warm business introduction
+- Personalized customer-focused messaging
+
+Gallery Preview:
+- Masonry/grid image gallery
+- Placeholder images
+
+Testimonials:
+- 3 elegant review cards
+
+CTA Banner:
+- Strong booking call-to-action
+
+Footer:
+- Contact info
+- Navigation links
+- Social links
+- Business hours
+
+==================================================
+HAIR SERVICES PAGE
+==================================================
+
+Include:
+- Elegant banner
+- Services grid:
+  - Haircuts
+  - Coloring
+  - Styling
+  - Treatments
+  - Bridal styling
+
+Add:
+- Pricing cards
+- Modern gallery
+- FAQ section
+- Booking button
+
+==================================================
+CRAFTING PROJECTS PAGE
+==================================================
+
+Include:
+- Showcase creative custom projects
+- Consultation process section
+- Timeline/process cards:
+  Consultation → Design → Creation → Delivery
+
+Add:
+- Project gallery
+- Inquiry form
+- Pricing explanation section
+- Consultation booking CTA
+
+==================================================
+ALTERATIONS PAGE
+==================================================
+
+Include:
+- Alteration services:
+  - Hemming
+  - Resizing
+  - Dress alterations
+  - Zipper repair
+  - Sleeve adjustments
+  - Custom fitting
+
+Add:
+- Before/after gallery
+- Pricing guide
+- Appointment booking section
+- Service process section
+
+==================================================
+CONTACT PAGE
+==================================================
+
+Include:
+- Modern contact form
+- Embedded map placeholder
+- Business info
+- Social media links
+- Working hours
+
+==================================================
+ANIMATIONS & UX
+==================================================
+
+Use Framer Motion for:
+- Fade-ins
+- Smooth card hover animations
+- Scroll reveal effects
+- Button animations
+- Page transitions
+
+Add:
+- Sticky navbar
+- Mobile hamburger menu
+- Smooth scrolling
+- Responsive layouts for all screen sizes
+
+==================================================
+IMPORTANT REQUIREMENTS
+==================================================
+
+- Make the site visually stunning and realistic
+- Use reusable React components
+- Create clean professional code
+- Use placeholder images from Unsplash
+- Keep layout modern and spacious
+- Avoid generic/basic template appearance
+- Ensure mobile responsiveness
+- Focus heavily on visual presentation and client impression
+- Generate all pages and components completely
+- Include realistic placeholder content
+- Make the homepage especially impressive
+
+Start by creating:
+1. Project structure
+2. Layout components
+3. Navbar and Footer
+4. Home page first
+5. Then build the remaining pages
